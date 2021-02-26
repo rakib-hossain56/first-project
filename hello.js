@@ -3,3 +3,9 @@ function newTask(){
 }
 
 newTask();
+
+const newTask2 = () =>{
+    console.log("This is a arrow Function");
+}
+
+newTask2();
